@@ -1,3 +1,4 @@
+create database EmpresaDevJav;
 use  EmpresaDevJav;
 create table departamento(
 codDpto int,
